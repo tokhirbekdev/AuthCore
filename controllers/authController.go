@@ -1,9 +1,9 @@
 package controllers
 
 import (
-    "AuthCore/models"
-    "AuthCore/utils"
-    "AuthCore/config"
+    "github.com/tokhirbekdev/AuthCore/models"
+    "github.com/tokhirbekdev/AuthCore/utils"
+    "github.com/tokhirbekdev/AuthCore/config"
     "net/http"
     "github.com/gin-gonic/gin"
     "golang.org/x/crypto/bcrypt"

@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-    "AuthCore/utils"
+    "github.com/tokhirbekdev/AuthCore/utils"
     "net/http"
     "github.com/gin-gonic/gin"
 )

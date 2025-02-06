@@ -1,9 +1,9 @@
 package authCore
 
 import (
-    "AuthCore/config"
-    "AuthCore/routes"
-    "AuthCore/migrations"
+    "github.com/tokhirbekdev/AuthCore/config"
+    "github.com/tokhirbekdev/AuthCore/routes"
+    "github.com/tokhirbekdev/AuthCore/migrations"
 )
 
 func InitAuth() {

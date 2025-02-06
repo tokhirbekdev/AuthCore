@@ -1,8 +1,8 @@
 package routes
 
 import (
-    "AuthCore/controllers"
-    "AuthCore/middlewares"
+    "github.com/tokhirbekdev/AuthCore/controllers"
+    "github.com/tokhirbekdev/AuthCore/middlewares"
     "github.com/gin-gonic/gin"
 )
 

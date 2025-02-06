@@ -1,8 +1,8 @@
 package migrations
 
 import (
-    "AuthCore/config"
-    "AuthCore/models"
+    "github.com/tokhirbekdev/AuthCore/config"
+    "github.com/tokhirbekdev/AuthCore/models"
 )
 
 func Migrate() {
