@@ -1,4 +1,5 @@
-module AuthCore
+module github.com/tokhirbekdev/AuthCore
+
 
 go 1.23.5
 
